@@ -1,0 +1,6 @@
+Openness,#fake news,#news,Significant other weight,News weight,Trial number,Iterations until convergence
+open,0,1,0,0.8,0,38
+open,0,1,0,0.8,1,39
+open,0,1,0,0.8,2,38
+open,0,1,0,0.8,3,39
+open,0,1,0,0.8,4,39
