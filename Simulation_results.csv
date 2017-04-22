@@ -1,6 +1,6 @@
-Openness,#fake news,#news,Significant other weight,News weight,Trial number,Iterations until convergence
-open,0,1,0,0.8,0,38
-open,0,1,0,0.8,1,39
-open,0,1,0,0.8,2,38
-open,0,1,0,0.8,3,39
-open,0,1,0,0.8,4,39
+Openness,#fake news,#news,Significant other weight,News weight,Trial number,Iterations until convergence,Moderates,Democrats,Republicans
+open,0,1,0,0.8,0,41,0.5453752181500873,1.0,0.07735697018533441
+open,0,1,0,0.8,1,39,0.49912739965095987,0.9927360774818402,0.0
+open,0,1,0,0.8,2,38,0.5052356020942408,0.9975786924939467,0.004834810636583401
+open,0,1,0,0.8,3,41,0.5305410122164049,1.0,0.058823529411764705
+open,0,1,0,0.8,4,38,0.5017452006980803,0.9987893462469734,0.0032232070910556
